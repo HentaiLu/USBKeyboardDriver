@@ -1,5 +1,4 @@
 # Gaurav Anil Yeole
-# UFID: 54473949
 # EEL 5934 - Adavenced System Programming, Spring 2017 
 # Assignement 7 - Makefile
 
